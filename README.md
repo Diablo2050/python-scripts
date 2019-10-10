@@ -1,2 +1,2 @@
-# schedule
-schedule with python
+# Python scripts
+Scripting with python
